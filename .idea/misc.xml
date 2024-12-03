@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.11 (BNAIC_kernel_attn)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (generative_modeling)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (BNAIC_kernel_attn)" project-jdk-type="Python SDK" />
 </project>
